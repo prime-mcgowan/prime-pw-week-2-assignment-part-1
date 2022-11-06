@@ -131,7 +131,6 @@ console.log ('I have more pets than my friend');
 
 //Used my Udemy course to help figure this stretch challenge out//
 
-//Should it be let number or const number???//
 let number = 1;
 
  switch (number) {
